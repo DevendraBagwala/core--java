@@ -1,8 +1,12 @@
-package Assignment1;
+package collection;
 
 import java.util.ArrayList;
 import java.util.Iterator;
-public class Demo {
+/* 
+ * this class has array list of collection class
+ */
+
+public class ArrayListDemo {
 	   public static void main(String[] args) {
 	      ArrayList<String> aList = new ArrayList<String>();
 	      aList.add("Apple");

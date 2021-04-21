@@ -1,11 +1,10 @@
-package Assignment1;
-
+package Assignment3;
+/* 
+ * This class has a method that perform exceptionHandling
+ */
 public class Exception {
-	
 
-	
-
-		public static void main(String args[]){  
+	public static void main(String args[]){  
 		   try{  
 		      //code that may raise exception  
 		      int data=100/0;  
@@ -27,7 +26,5 @@ public class Exception {
 	        System.out.println("rest of the code");  
 	   	  
 		  
- }
-}		  
-		
-
+}
+}
